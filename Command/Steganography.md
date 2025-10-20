@@ -26,8 +26,8 @@
 
        Từ hình ảnh trên khi tôi dùng lệnh exiftool đã xuất ra 1 thông tin khá nghi ngờ ở phần Attribution Url đã xuất hiện ra 1 chuỗi:
 
-        <pre> cGljb0NURntNRTc0RDQ3QV9ISUREM05fZDhjMzgxZmR9Cg== </pre>
-
+        cGljb0NURntNRTc0RDQ3QV9ISUREM05fZDhjMzgxZmR9Cg==
+    
        Với việc khi phát hiện 1 chuỗi dạng encoding được mã hóa thì chúng ta có thể dùng lệnh:
 
     <pre>base64</pre>
