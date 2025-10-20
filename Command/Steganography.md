@@ -30,7 +30,7 @@
     
        Với việc khi phát hiện 1 chuỗi dạng encoding được mã hóa thì chúng ta có thể dùng lệnh:
 
-    <pre>base64</pre>
+    <pre> echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fZDhjMzgxZmR9Cg==" | base64 -d </pre>
 
        Lệnh base64 có thể giúp chúng ta mã hóa đã các chuỗi như trên:
 
