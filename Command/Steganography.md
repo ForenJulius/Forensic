@@ -30,7 +30,7 @@
 
        Với việc khi phát hiện 1 chuỗi dạng encoding được mã hóa thì chúng ta có thể dùng lệnh:
 
-        <pre> base64 </pre>
+    <pre>base64</pre>
 
        Lệnh base64 có thể giúp chúng ta mã hóa đã các chuỗi như trên:
 
