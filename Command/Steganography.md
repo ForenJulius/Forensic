@@ -4,7 +4,7 @@
 * Với dạng Steganography thì mục tiêu chúng ta là phải tìm sâu bên trong file có những gì khai thác sâu bên trong mới có thể tìm được flag 
   - Đầu tiền muốn đọc được bên trong file thì mình dùng lệnh: 
 
-       <pre> exiftool </pre>
+       <pre> exiftool (file) </pre>
 
      + Là một công cụ dùng để đọc file ẩn (metadata)
      + Mình sẽ giải thích thêm về <pre> metadata </pre>
