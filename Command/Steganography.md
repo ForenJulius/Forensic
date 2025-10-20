@@ -5,4 +5,5 @@ Với dạng Steganography thì mục tiêu chúng ta là phải tìm sâu bên 
 
   <pre> exiftool </pre>
 
- Đây sẽ là 1 dạng lệnh giúp chúng ta khai thác được bên trong file đó có những gì
+ là một công cụ dùng để đọc, chỉnh sửa và hiển thị metadata (siêu dữ liệu) của file,....
+ d
