@@ -13,7 +13,7 @@
 
        <img width="704" height="452" alt="image" src="https://github.com/user-attachments/assets/706d00be-2283-4c63-8f7c-945212ca2df7" />
 
-       Giả sử tôi đang có một bức ảnh có 1 flag ở trên. Các bạn có thể thấy được khi tôi dùng lệnh <pre> exiftool.... </pre> nó sẽ xuất ra rất nhiều thông tin từ file ảnh như:
+       Giả sử tôi đang có một bức ảnh có 1 flag ở trên. Các bạn có thể thấy được khi tôi dùng lệnh <pre> exiftool ukn_reality.jpg </pre> nó sẽ xuất ra rất nhiều thông tin từ file ảnh như:
          + Tên file ảnh
          + Kích thước file
          + Loại file
