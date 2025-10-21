@@ -54,11 +54,13 @@
 
     <img width="455" height="49" alt="image" src="https://github.com/user-attachments/assets/7f65c2e4-0d31-45b7-865a-085d779847b3" />
 
-    Mình sẽ dùng lệnh `xdg-open` để xem file `image.png`
+    Mình sẽ dùng lệnh `xdg-open` để xem file `image.png`.
 
     <img width="1404" height="814" alt="image" src="https://github.com/user-attachments/assets/18c55497-612d-4ab3-bf9c-648b8b3221e4" />
 
-    Ngay lập tức nó sẽ hiện cho các bạn thấy được 1 bức ảnh được tạo từ file `aline.wav` có chứa flag trong đó
+    Ngay lập tức nó sẽ hiện cho các bạn thấy được 1 bức ảnh được tạo từ file `aline.wav` có chứa flag trong đó:
+
+    <pre> QnQSec{h1dd3n_1n_4ud1o} </pre>
     
   + Tóm lại với dạng Forensic Steganography - File âm thì các bạn cần phải xác định được file âm thanh và những bước tiếp theo cần phải làm gì để có được thông tin bên trong file ảnh!!
 
