@@ -1,3 +1,15 @@
+# Steganoraphy
+* Steganoraphy is the technique of hiding secret information inside anther file — usually an image, audio, video, or document in a way that other won't notice anything is hidden
+* In steganoraphy challenges our goal is to dig inside the file to find what's hidden so we can extract the flag
+  - First, to read hidden information inside a file we often use the command:
+
+      <pre> exiftool (file) </pre>
+      
+     + Exiftool is a tool used to read hidden file data (metadata)
+     + I'll explain metadata <pre> metadata </pre>
+     + Metadata is hidden information embedded in a file that does not show up when you open the file normally. Example usage:
+       <img width="704" height="452" alt="image" src="https://github.com/user-attachments/assets/706d00be-2283-4c63-8f7c-945212ca2df7" />
+#
 # Steganography
 
 * Steganography là kỹ thuật giấu thông tin bí mật bên trong một dữ liệu khác — thường là ảnh, âm thanh, video, hoặc tài liệu mà người khác không nhận ra là có gì bị giấu
@@ -6,10 +18,9 @@
 
        <pre> exiftool (file) </pre>
 
-     + Là một công cụ dùng để đọc file ẩn (metadata)
+     + Exiftool Là một công cụ dùng để đọc file ẩn (metadata)
      + Mình sẽ giải thích thêm về <pre> metadata </pre>
-     + metadata là dạng thông tin ẩn bên trong file nó sẽ không hiển thị khi chúng ta xem file 1 cách bình thường
-     + Mình sẽ ví dụ về lệnh này nhé:
+     + metadata là dạng thông tin ẩn bên trong file nó sẽ không hiển thị khi chúng ta xem file 1 cách bình thường. Tôi sẽ ví dụ về lệnh này nhé:
 
        <img width="704" height="452" alt="image" src="https://github.com/user-attachments/assets/706d00be-2283-4c63-8f7c-945212ca2df7" />
 
