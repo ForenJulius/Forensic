@@ -9,4 +9,16 @@ Sau đây mình sẽ giới thiệu cho các bạn về Forensic!!!
     + File corruption / recovery  -->  File bị hư, sai định dạng, thiếu header
     + Log analysis  -->  Phân tích log hệ thống, web server, trình duyệt, app
     + Email / PDF / Document  -->  Tìm metadata, macro, link ẩn trong tài liệu
-    +  Malware forensics  -->  Phân tích hành vi, chuỗi, file dropper
+    + Malware forensics  -->  Phân tích hành vi, chuỗi, file dropper
+
+# Introduction to Forensics
+
+ - Forensics is a category where we analyze digital evidence (files, images, disks, networks, logs, etc.) to find clues or the flag.
+ - Common Types of Forensics:
+    + Disk / Memory Image → Analyze virtual disks (.dd, .img) or RAM dumps to find hidden data.
+    + Network Capture (PCAP) → Analyze .pcap files to discover transmitted information.
+    + Steganography → Hide information inside images, audio, or videos.
+    + File Corruption / Recovery → Work with damaged, corrupted, or incomplete files (missing headers, wrong format, etc.).
+    + Log Analysis → Examine system logs, web server logs, browser logs, or app logs for clues.
+    + Email / PDF / Document → Look for metadata, macros, or hidden links inside documents.
+    + Malware Forensics → Analyze malicious files, behaviors, or droppers to understand how malware works.
