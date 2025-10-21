@@ -1,4 +1,4 @@
-# Steganography - Audio file
+# Steganography - File âm thanh
 
 * Với Forensic dạng Steganography - file âm thanh thì mục tiêu cần tìm flag gồm:
   + Xác định được file âm thanh đó có thật sự là file âm thanh không hay file âm thanh giả.
