@@ -9,7 +9,9 @@
     + Log Analysis → Examine system logs, web server logs, browser logs, or app logs for clues.
     + Email / PDF / Document → Look for metadata, macros, or hidden links inside documents.
     + Malware Forensics → Analyze malicious files, behaviors, or droppers to understand how malware works.
-
+  
+- Link download VMware: https://www.kali.org/get-kali/#kali-virtual-machines
+- Link download Kali Linux: https://www.kali.org/get-kali/#kali-installer-images
 # 
 # Forensic
 
@@ -23,3 +25,6 @@ Sau đây mình sẽ giới thiệu cho các bạn về Forensic!!!
     + Log analysis  -->  Phân tích log hệ thống, web server, trình duyệt, app
     + Email / PDF / Document  -->  Tìm metadata, macro, link ẩn trong tài liệu
     + Malware forensics  -->  Phân tích hành vi, chuỗi, file dropper
+    
+- Link tải VMware: https://www.kali.org/get-kali/#kali-virtual-machines
+- Link tải Kali Linux: https://www.kali.org/get-kali/#kali-installer-images
