@@ -1,4 +1,4 @@
-# Steganoraphy
+# Steganoraphy - Image file
 * Steganoraphy is the technique of hiding secret information inside anther file — usually an image, audio, video, or document in a way that other won't notice anything is hidden
 * In steganoraphy challenges our goal is to dig inside the file to find what's hidden so we can extract the flag
   - First, to read hidden information inside a file we often use the command:
@@ -43,7 +43,7 @@
 --> Summary: When tackling CTF Forensics steganography challenges, your first job is to extract the hidden data inside the file. exiftool is a mandatory first step to inspect metadata and find hidden strings or clues. From there you may need decoders (like base64), file carving, stego tools, or deeper analysis depending on what you find.
 
 #
-# Steganography
+# Steganography - File ảnh
 
 * Steganography là kỹ thuật giấu thông tin bí mật bên trong một dữ liệu khác — thường là ảnh, âm thanh, video, hoặc tài liệu mà người khác không nhận ra là có gì bị giấu
 * Với dạng Steganography thì mục tiêu chúng ta là phải tìm sâu bên trong file có những gì khai thác sâu bên trong mới có thể tìm được flag 
