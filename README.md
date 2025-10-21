@@ -9,6 +9,8 @@
     + Log Analysis → Examine system logs, web server logs, browser logs, or app logs for clues.
     + Email / PDF / Document → Look for metadata, macros, or hidden links inside documents.
     + Malware Forensics → Analyze malicious files, behaviors, or droppers to understand how malware works.
+      
+  - For CTF challenges related to Forensics, it’s recommended to use a virtual machine running Kali Linux on VMware:
   
 - Link download VMware: https://www.kali.org/get-kali/#kali-virtual-machines
 - Link download Kali Linux: https://www.kali.org/get-kali/#kali-installer-images
@@ -25,6 +27,8 @@ Sau đây mình sẽ giới thiệu cho các bạn về Forensic!!!
     + Log analysis  -->  Phân tích log hệ thống, web server, trình duyệt, app
     + Email / PDF / Document  -->  Tìm metadata, macro, link ẩn trong tài liệu
     + Malware forensics  -->  Phân tích hành vi, chuỗi, file dropper
+    
+  - Với dạng CTF về Forensic thì mình khuyến khích nên dùng máy ảo VMware Kali Linux:
     
 - Link tải VMware: https://www.kali.org/get-kali/#kali-virtual-machines
 - Link tải Kali Linux: https://www.kali.org/get-kali/#kali-installer-images
