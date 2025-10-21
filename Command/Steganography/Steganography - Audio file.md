@@ -42,7 +42,7 @@
     <pre> sox alien.wav -n spectrogram -o image.png  </pre>
 
     Khi các bạn sử dụng lệnh `sox` xong thì lập tức nó sẽ tạo 1 file `image.png`
-  + Tiếp theo, khi các bạn đã tạo xong file `image.png` như này thì các bạn sẽ mở file ảnh băng lệnh:
+  + Tiếp theo, khi các bạn đã tạo xong file `image.png` như này thì các bạn sẽ mở file ảnh bằng lệnh:
  
     <pre> 
       xdg-open
