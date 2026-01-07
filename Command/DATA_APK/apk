@@ -1,2 +1,14 @@
-Ở đây mình sẽ sơ qua về tệp apk nhé 
-APK là APK là viết tắt của Android Package (Android application package) — định dạng file dùng để cài đặt ứng dụng trên Android, tương tự như .exe trên Windows hay .dmg/.pkg trên macOS.
+* APK là APK là viết tắt của Android Package (Android application package) — định dạng file dùng để cài đặt ứng dụng trên Android
+tương tự như .exe trên Windows hay .dmg/.pkg trên macOS.
+- PK dùng để làm gì?
+   + Cài app lên điện thoại Android (đặc biệt khi không cài từ Google Play).
+   + Chia sẻ ứng dụng dưới dạng một file.
+   + Lưu/backup bản cài của app.
+   + Phân tích/kiểm tra app (lập trình, bảo mật, forensics).
+- Bên trong APK có gì?
+   + APK thực chất là một file nén kiểu ZIP, thường chứa:
+   + AndroidManifest.xml: khai báo quyền, component (activity/service), cấu hình app
+   + classes.dex: mã bytecode (Java/Kotlin) chạy trên Android Runtime
+   + res/ và resources.arsc: tài nguyên giao diện, chuỗi, layout
+   + lib/: thư viện native .so (nếu có)
+   + META-INF/: chữ ký/siêu dữ liệu phục vụ xác thực
