@@ -13,6 +13,7 @@
   - For CTF challenges related to Forensics, it’s recommended to use a virtual machine running Kali Linux on VMware:
   
 - Link download VMware: https://www.kali.org/get-kali/#kali-virtual-machines
+- Link download VirtualBox: https://www.virtualbox.org/wiki/Downloads
 - Link download Kali Linux: https://www.kali.org/get-kali/#kali-installer-images
 # 
 # Forensic
@@ -31,4 +32,5 @@ Sau đây mình sẽ giới thiệu cho các bạn về Forensic!!!
   - Với dạng CTF về Forensic thì mình khuyến khích nên dùng máy ảo VMware Kali Linux:
     
 - Link tải VMware: https://www.kali.org/get-kali/#kali-virtual-machines
+- Link tải VirtualBox: https://www.virtualbox.org/wiki/Downloads
 - Link tải Kali Linux: https://www.kali.org/get-kali/#kali-installer-images
